@@ -63,7 +63,7 @@
 </div>
 
 <div align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=jindoiv&theme=onedark&column=1" />
 </div>
 
 <br/><br/>
