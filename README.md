@@ -57,8 +57,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jindoiv&theme=radical&show_icons=true&hide_border=true&count_private=true&border_radius=10" alt="jindoiv's GitHub Stats" />
-  <img width=390  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jindoiv&theme=radical&show_icons=true&hide_border=true&layout=compact&border_radius=10" alt="jindoiv's GitHub Stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jindoiv&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true&border_radius=10" alt="jindoiv's GitHub Stats" />
+  <img width=390  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jindoiv&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact&border_radius=10" alt="jindoiv's GitHub Stats" />
   <br/>
 </div>
 
