@@ -57,14 +57,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jindoiv&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=jindoiv&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jindoiv&theme=radical&show_icons=true&hide_border=true&count_private=true&border_radius=10" alt="jindoiv's GitHub Stats" />
+  <img width=390  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jindoiv&theme=radical&show_icons=true&hide_border=true&layout=compact&border_radius=10" alt="jindoiv's GitHub Stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jindoiv&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-
-<p align="center">
-	<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=jindoiv&show_icons=true&theme=calm_pink&border_radius=12&include_all_commits=true&count_private=true">
-</p>
 </div>
 
 <br/><br/>
