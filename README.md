@@ -63,7 +63,7 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jindoiv&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 <p align="center">
-	<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=jindoiv&show_icons=true&title_color=E6B450&text_color=BFBDB6&icon_color=59C2FF&bg_color=131721&hide_border=true&border_radius=12&include_all_commits=true&count_private=true">
+	<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=jindoiv&show_icons=true&theme=shades-of-purple&border_radius=12&include_all_commits=true&count_private=true">
 </p>
 </div>
 
