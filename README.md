@@ -72,7 +72,7 @@
 
 <br/><br/>
 
-[![Jindo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jindoiv&themetokyo-night)](https://github.com/jindoiv/github-readme-activity-graph)
+[![Jindo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jindoiv&theme=tokyo-night)](https://github.com/JindoIV/github-readme-activity-graph)
 
 <!--
 **JindoIV/JindoIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
