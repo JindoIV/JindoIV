@@ -41,16 +41,15 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
-<br/>
-<hr/>
+<br/><hr/>
 
+<h2 align="center">🏆 Trophys 🏆</h2>
+<br>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jindoiv/jindoiv/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img alig src="https://github-profile-trophy.vercel.app/?username=jindoiv&theme=discord" />
 </div>
+
+<br/><br/><br/>
 
 <hr/>
 
@@ -64,13 +63,15 @@
 
 <hr/>
 
-<h2 align="center">🏆 Trophys 🏆</h2>
-<br>
-<div align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=jindoiv&theme=discord" />
-</div>
-
 <br/><br/><br/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jindoiv/jindoiv/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 [![Jindo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jindoiv&theme=tokyo-night)](https://github.com/JindoIV/github-readme-activity-graph)
 
