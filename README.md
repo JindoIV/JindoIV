@@ -1,5 +1,3 @@
-BASE_URL = https://simpleskill.icons.workers.dev/svg
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jindoiv.jindoiv" />
 
 <h1 align="center">
@@ -39,7 +37,7 @@ BASE_URL = https://simpleskill.icons.workers.dev/svg
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="[BASE_URL]?i=react,node.js,docker,mongodb,postgresql,awslambda" />
+    ![My Skills](https://simpleskill.icons.workers.dev/svg?i=react,node.js,docker,mongodb,postgresql,awslambda,adobexd,bitbucket)
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
