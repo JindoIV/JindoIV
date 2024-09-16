@@ -49,7 +49,7 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=jindoiv&theme=discord" />
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
 <hr/>
 
