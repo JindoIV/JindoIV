@@ -64,13 +64,13 @@
 
 <hr/>
 
-<h2 align="center">⚡ Trophys ⚡</h2>
+<h2 align="center">🏆 Trophys 🏆</h2>
 <br>
 <div align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=jindoiv&theme=discord" />
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
 [![Jindo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jindoiv&theme=tokyo-night)](https://github.com/JindoIV/github-readme-activity-graph)
 
