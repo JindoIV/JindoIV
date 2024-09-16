@@ -72,6 +72,16 @@
 
 [![Jindo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jindoiv&theme=tokyo-night)](https://github.com/JindoIV/github-readme-activity-graph)
 
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  ![When-you-want-something-all-the-universe](https://user-images.githubusercontent.com/194400/162908874-6d1d74cd-a4fd-4dd2-8339-4450c8b4939b.jpeg)
+  
+  <br/><br/><br/>
+</div>
+
+
 <!--
 **JindoIV/JindoIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
