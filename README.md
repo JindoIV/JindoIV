@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://simpleskill.icons.workers.dev/svg?i=html5,css3,javascript,typescript,react,nextdotjs" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,c,cplusplus,dotnet,unity,java" /><br>
+    <img src="https://skillicons.dev/icons?i=cplusplus,nodejs,c,dotnet,unity,java" /><br>
 </div>
 
 <br/><hr/>
