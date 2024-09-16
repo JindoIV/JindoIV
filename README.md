@@ -1,4 +1,4 @@
-### BASE_URL = https://simpleskill.icons.workers.dev/svg
+BASE_URL = https://simpleskill.icons.workers.dev/svg
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jindoiv.jindoiv" />
 
