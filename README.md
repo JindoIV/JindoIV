@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=html5,css3,javascript,typescript,react,nextdotjs" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=cplusplus,nodejs,c,dotnet,unity,java" /><br>
 </div>
 
